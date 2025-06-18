@@ -22,7 +22,7 @@ ApplicationWindow {
 
     //Content Area
     TextArea {
-        text: qsTr("HELLO")
+        text: qsTr("SOME")
         anchors.horizontalCenter: parent.horizontalCenter
         anchors.verticalCenter: parent.verticalCenter
     }
