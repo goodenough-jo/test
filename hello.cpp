@@ -1,3 +1,6 @@
 #include "hello.h"
 
-hello::hello() {}
+hello::hello()
+{
+    //新加的
+}

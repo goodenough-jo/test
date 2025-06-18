@@ -17,6 +17,7 @@ qt_add_qml_module(appdomo
     QML_FILES   Main.qml
     SOURCES hello.h hello.cpp
     SOURCES some.h some.cpp
+    SOURCES git.h git.cpp
 )
 
 target_compile_features(appdomo PRIVATE cxx_std_23)
